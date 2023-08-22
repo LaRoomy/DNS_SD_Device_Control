@@ -20,7 +20,7 @@ The Windows application creates a listener that listens for a TCP connection on 
 ![](res/full_app_small_view.png)
 
 > **NOTE**
-> The App is written in C# with Visual Studio 22. The .net6 frameworks is used combined with the WinUI3 UX platform.
+> The App is written in C# with Visual Studio 22. The .net6 framework is used combined with the WinUI3 UX platform.
 
 ### ESP32 (Client)
 The client connects to the local network and scans for the specific service which is advertised by the server. Once the service is discovered, the client connects to it. Furthermore a secure connection will be established using symetric and assymetric encryption methods. The encryption scheme is explained below. An ESP32 microcontroller is used as the client in this project. The test circuit contains two LED and a hardware switch to show the status of the connections and to demonstrate functionality:
