@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "MyDevices (Package)": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": true
+    },
+    "MyDevices (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
