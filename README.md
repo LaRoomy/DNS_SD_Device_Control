@@ -39,7 +39,7 @@ The following illustration shows a schematic view of this process:
 
 ## Additional Information
 
-> **IMPORTANT**
+> [!IMPORTANT]
 > The DNS-Service advertising will only work if the network settings of the computer are set to 'private network'. Otherwise other network participants cannot discover the service because the computer is hidden in the network.
 
 ## Attributions
